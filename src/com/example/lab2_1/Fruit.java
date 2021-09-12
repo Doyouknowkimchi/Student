@@ -1,5 +1,7 @@
-package com.example.lab2;
+package com.example.lab2_1;
 import java.util.Comparator;
+
+import com.example.lab2.Student;
 
 public class Fruit {
 	int no;

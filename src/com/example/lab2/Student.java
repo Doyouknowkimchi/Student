@@ -2,7 +2,7 @@ package com.example.lab2;
 
 public class Student implements Comparable<Student>{
 	int no;
-	String name;
+	public String name;
 	int age;
 	
 	@Override
